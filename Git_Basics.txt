@@ -107,13 +107,6 @@ Note: push -u (sets upstrem so we can use git push only push code to origin main
 WorkFlow: 
 Create GitRepo > clone > changes > add > commit > push 
 
-//
-A remote branch is a branch that exists on a remote repository, such as GitHub, GitLab, or Bitbucket.
-
-> git branch -r
-When you clone a repository, you can access all its remote branches. You can verify this using the git branch command alongside the -r
-
-
 
 //
 Window-Command prompt
